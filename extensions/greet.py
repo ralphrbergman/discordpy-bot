@@ -7,7 +7,7 @@ from discord.ext.commands import hybrid_command
 
 
 GREETINGS: Tuple[str] = (
-    "What's up?"
+    "What's up?",
     "Hello",
     "Howdy",
     "Hiya",
